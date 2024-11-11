@@ -50,8 +50,24 @@ public class Main {
         var boxer2 = 82.7;
         var weight = boxer1+boxer2;
         System.out.println (weight);
+
         var other = boxer2-boxer1;
         System.out.println (other);
+
+        System.out.println("Задача 7");
+        var result = boxer2 % boxer1;
+        System.out.println(result);
+
+
+        System.out.println("Задача 8");
+        var result2 = 640/8;
+        System.out.println("Всего работников в компании — " + result2 + " человек");
+        var result3 = result2+94;
+        var result4 = result3*8;
+        System.out.println("Если в компании работает " + result3 + " человек, то всего "+ result4+ " часов работы может быть поделено между сотрудниками");
+        
+
+
 
 
 
