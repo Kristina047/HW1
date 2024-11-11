@@ -28,6 +28,36 @@ public class Main {
 
 
         System.out.println("Задача 4");
+        var friend = 19;
+        System.out.println (friend);
+        friend = (19*2);
+        System.out.println (friend);
+        friend = (19*2)/7;
+        System.out.println (friend);
+
+        System.out.println("Задача 5");
+        var frog = 3.5;
+        System.out.println (frog);
+        frog = 3.5*10;
+        System.out.println (frog);
+        frog = (3.5*10)/3.5;
+        System.out.println (frog);
+        frog = ((3.5*10)/3.5)+4;
+        System.out.println (frog);
+
+        System.out.println("Задача 6");
+        var boxer1 = 78.2;
+        var boxer2 = 82.7;
+        var weight = boxer1+boxer2;
+        System.out.println (weight);
+        var other = boxer2-boxer1;
+        System.out.println (other);
+
+
+
+
+
+
 
 
 
