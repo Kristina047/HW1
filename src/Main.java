@@ -40,9 +40,9 @@ public class Main {
         System.out.println (frog);
         frog = 3.5*10;
         System.out.println (frog);
-        frog = (3.5*10)/3.5;
+        frog = frog/3.5;
         System.out.println (frog);
-        frog = ((3.5*10)/3.5)+4;
+        frog = frog+4;
         System.out.println (frog);
 
         System.out.println("Задача 6");
