@@ -32,7 +32,7 @@ public class Main {
         System.out.println (friend);
         friend = (friend*2);
         System.out.println (friend);
-        friend = (19*2)/7;
+        friend = (friend/7);
         System.out.println (friend);
 
         System.out.println("Задача 5");
